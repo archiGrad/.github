@@ -4,9 +4,9 @@
 Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to **making architecture informed**.
 
 <div style="text-align: center;">
-  <img src="../assets/cover.jpg" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="../assets/cover.jpg" alt="Image 2" style="width: 33%; display: inline-block;">
-  <img src="./assets/cover.jpg" alt="Image 3" style="width: 33%; display: inline-block;">
+  <img src="./assets/cover.jpg" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/cover.jpg" alt="Image 2" style="width: 33%; display: inline-block;">
+  <img src="./assets/1.gif" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
 
 ## What Do We Do?
