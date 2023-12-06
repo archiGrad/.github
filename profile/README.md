@@ -6,7 +6,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 <div style="text-align: center;">
   <img src="../assets/cover.jpg" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="../assets/cover.jpg" alt="Image 2" style="width: 33%; display: inline-block;">
-  <img src="./cover.jpg" alt="Image 3" style="width: 33%; display: inline-block;">
+  <img src="./assets/cover.jpg" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
 
 ## What Do We Do?
@@ -14,7 +14,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
 
 <!-- We outperform traditional methods, offering both an economical and environmental advantage. -->
-[Link Text](http://example.com)
+<!-- [Link Text](http://example.com) -->
 
 ## Why Choose Us?
 
@@ -28,7 +28,7 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 - **Communication:** we provide analytical and highly-communicative drawings, videos, models and applications.
 
-- **predicability:** With our end-to-end ML model, we can accuratly predict temperature,gas and sound propagatiopn, aswell as  human circulation
+- **Predicability:** With our end-to-end ML model, we can accuratly predict temperature,gas and sound propagatiopn, aswell as  human circulation
  <!-- high-communicative drawings, videos, and models to effectively communicate our proposals and analyses. -->
 
 ## How We Do This?
