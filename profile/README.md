@@ -46,7 +46,7 @@ We are active educators and conduct workshops and lectures, including currently 
 - [x] Task 1
 - [ ] Task 2 -->
 
-## Who Are We? <img src="./assets/animated.gif" style="width: 100%; display: inline-block; border:50%">
+## Who Are We? <img src="./assets/animated.gif" style="width: 100%; display: inline-block; border:50px">
 
 ### Joris Putteneers
 - **Role:** Software Engineer 🤖🧑‍💻
