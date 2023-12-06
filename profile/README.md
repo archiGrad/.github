@@ -74,6 +74,8 @@ We are active educators and conduct workshops and lectures, including currently 
 </details>
 
 
-
+<div style="text-align: center;">
+  <img src="./assets/dataset1.gif" alt="Image 1" style="width: 33%; display: inline-block;">
+</div>
 
 
