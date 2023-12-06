@@ -10,14 +10,14 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 </div>
 
 
-## What Do We Do?
+## What Do We Do? <img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">
 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
 
 <!-- We outperform traditional methods, offering both an economical and environmental advantage. -->
 <!-- [Link Text](http://example.com) -->
 
-## Why Choose Us?
+## Why Choose Us? <img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">
 
 - **Real Data:** We use REAL data, ensuring real-time problem detection with high resolution, frequency, and accuracy.
   
@@ -32,11 +32,11 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 - **Predicability:** With our end-to-end ML model, we can accuratly predict temperature,gas and sound propagatiopn, aswell as  human circulation
  <!-- high-communicative drawings, videos, and models to effectively communicate our proposals and analyses. -->
 
-## How We Do This?
+## How We Do This? <img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">
 
 We leverage specialised soft-and-hardware developed in-house. 
 
-## Research And Education
+## Research And Education <img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">
 
 We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand) and Bartlett UCL (London, UK).
 
