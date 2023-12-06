@@ -8,7 +8,6 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
   <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
   <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
-<br>
 
 
 ## What Do We Do?
