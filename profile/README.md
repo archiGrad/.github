@@ -11,8 +11,6 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 <br>
 
 
-<iframe src="https://putteneersjoris.xyz/" width="600" height="400" frameborder="0" allowfullscreen></iframe>
-
 ## What Do We Do?
 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
