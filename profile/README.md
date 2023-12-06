@@ -76,6 +76,6 @@ We are active educators and conduct workshops and lectures, including currently 
 
 
 
-<img src="./assets/dataset1.gif" alt="Image 1" style="width: 100%; display: inline-block;">
+<!-- <img src="./assets/dataset1.gif" alt="Image 1" style="width: 100%; display: inline-block;"> -->
 
 
