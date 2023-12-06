@@ -2,11 +2,13 @@
 # ArchiGrad.io
 
 Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to **making architecture informed**.
+<br><br>
 <div style="text-align: center;">
   <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
   <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
+<br>
 ## What Do We Do?
 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
