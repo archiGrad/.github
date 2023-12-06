@@ -2,7 +2,7 @@
 # ArchiGrad.io
 
 Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to **making architecture informed**.
-<br><br><br>
+<br><br>
 <div style="text-align: center;">
   <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
