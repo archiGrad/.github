@@ -25,16 +25,16 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 - **end-to-end:** we are able to identify AND propose a solution.
 
-- **flexible:** our service can be used in multiple fases, from design, construction, aftercare and restoration.
+- **flexible:** our service can be used in multiple phases, from design, construction, aftercare, and restoration.
 
-- **Communication:** we provide analytical and highly-communicative drawings, videos, models and applications.
+- **Communication:** we provide analytical and highly-communicative drawings, videos, models, and applications.
 
-- **Predicability:** With our end-to-end ML model, we can accuratly predict temperature,gas and sound propagatiopn, aswell as  human circulation
+- **Predicability:** With our end-to-end ML model, we can accurately predict temperature, gas, and sound propagation, as well as  human circulation
  <!-- high-communicative drawings, videos, and models to effectively communicate our proposals and analyses. -->
 
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We leverage specialised soft-and-hardware developed in-house. 
+We leverage specialized soft-and-hardware developed in-house. 
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
