@@ -3,11 +3,11 @@
 
 Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to **making architecture informed**.
 <br>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
   <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
-</div>
+</div> -->
 <div style="text-align: center;">
   <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
   <!-- <img src="./assets/IMG_3686.JPG" alt="Image 2" style="width: 33%; display: inline-block;"> -->
