@@ -21,23 +21,23 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
   <summary style="font-weight: bold; font-size: 1.5em;">Media</summary>
   <div style="text-align: center;">
       <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 100%;">
+          <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%;">
           <p>Annotation for Image 1</p>
       </div>
       <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3760.JPG" alt="Image 2" style="width: 100%;">
+          <img src="./assets/IMG_3760.JPG" alt="Image 2" style="width: 33%;">
           <p>Annotation for Image 2</p>
       </div>
       <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 100%;">
+          <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%;">
           <p>Annotation for Image 3</p>
       </div>
       <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 100%;">
+          <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%;">
           <p>Annotation for Image 4</p>
       </div>
       <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 100%;">
+          <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%;">
           <p>Annotation for Image 5</p>
       </div>
   </div>
