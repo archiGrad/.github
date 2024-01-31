@@ -12,7 +12,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
   <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
   <!-- <img src="./assets/IMG_3686.JPG" alt="Image 2" style="width: 33%; display: inline-block;"> -->
   <!-- <img src="./assets/IMG_3699.JPG" alt="Image 3" style="width: 33%; display: inline-block;"> -->
-  <img src="./assets/IMG_3758.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+  <!-- <img src="./assets/IMG_3758.JPG" alt="Image 3" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/IMG_3760.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3807.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
