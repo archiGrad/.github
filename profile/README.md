@@ -20,6 +20,26 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 </div>
 
 
+<details>
+  <summary style="font-weight: bold; font-size: 1.5em;">Media</summary>
+    
+  <div style="text-align: center;">
+    <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
+    <!-- <img src="./assets/IMG_3686.JPG" alt="Image 2" style="width: 33%; display: inline-block;"> -->
+    <!-- <img src="./assets/IMG_3699.JPG" alt="Image 3" style="width: 33%; display: inline-block;"> -->
+    <!-- <img src="./assets/IMG_3758.JPG" alt="Image 3" style="width: 33%; display: inline-block;"> -->
+    <img src="./assets/IMG_3760.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+    <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+    <img src="./assets/IMG_3807.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+    <img src="./assets/IMG_3850.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+  </div>
+  
+</details>
+
+
+
+
+
 ## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
@@ -78,7 +98,7 @@ We are active educators and conduct workshops and lectures, including currently 
 <!-- <details>
   <summary></summary>   
   
-
+ddd
 </details> -->
 
 <details>
