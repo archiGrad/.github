@@ -64,10 +64,18 @@ We are active educators and conduct workshops and lectures, including currently 
 - [ ] Task 2 -->
 
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
   <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
 </div>
+-->
+
+<div style="text-align: center;">
+  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped3.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+</div>
+
+
 
 
 ### Joris Putteneers
