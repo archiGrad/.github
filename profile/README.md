@@ -1,5 +1,5 @@
  
-# ArchiGrad.io ซ่อน
+# ArchiGrad.io 
 
 Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-based operation dedicated to **making architecture informed**.
 <br>
@@ -23,7 +23,18 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
   
 </details>
 
+<details>
+  <summary>Click to expand/collapse</summary>
 
+  Your detailed content goes here. It can include any valid HTML or markdown content.
+
+  - List item 1
+  - List item 2
+
+  **Bold Text**
+
+  *Italic Text*
+</details>
 
 
 
