@@ -16,49 +16,6 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
   <img src="./assets/IMG_3850.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
 
-<details>
-  <summary>Hardware</summary>
-
-  - ESP32
-  - C++
-</details>
-
-<details>
-  <summary>Software</summary>
-
-  - SideFx Houdini
-  - Gimp
-  - ffmpeg
-  - imagemagick
-</details>
-
-<details>
-  <summary>Frontend</summary>
-
-  - JavaScript
-  - HTML
-  - CSS
-</details>
-
-<details>
-  <summary>Backend</summary>
-
-  - PHP
-  - MySQL
-  - Rust
-  - Python
-  - Apache HTTP Server
-</details>
-
-<details>
-  <summary>Workflow</summary>
-
-  - Vim
-  - Linux Debian
-</details>
-
-
-
 ## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
@@ -131,10 +88,10 @@ We leverage specialized soft-and-hardware developed in-house.
 We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 
-<!-- ## Roadmap
+## Roadmap
 
 - [x] Task 1
-- [ ] Task 2 -->
+- [ ] Task 2 
 
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 <!-- <div style="text-align: center;">
