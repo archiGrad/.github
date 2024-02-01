@@ -18,7 +18,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
 
 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="./assets/INDA_group_3_2.png" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/INDA_group_3_4.png" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/INDA_group_3_5.png" alt="Image 3" style="width: 100%; display: inline-block;">
@@ -26,7 +26,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
   <img src="./assets/INDA_group_3_9.png" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/INDA_group_3_10.png" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/INDA_group_3_14.png" alt="Image 3" style="width: 33%; display: inline-block;">
-</div>
+</div> -->
 
 ## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
@@ -54,12 +54,12 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 We leverage a custom hard and software stack. 
 
-
+<div style="text-align: center;">
   <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_2.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_3.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;">
-
+</div>
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
 | ---------|------|------------|
