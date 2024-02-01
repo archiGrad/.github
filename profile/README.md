@@ -53,51 +53,6 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 We leverage specialized soft-and-hardware developed in-house. 
 
-## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-
-We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
-
-
-<!-- ## Roadmap
-
-- [x] Task 1
-- [ ] Task 2 -->
-
-## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-<!-- <div style="text-align: center;">
-  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
-</div>
--->
-
-<div style="text-align: center;">
-  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped4.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
-</div>
-
-
-
-
-### Joris Putteneers
-- **Role:** Software Engineer 🤖🧑‍💻
-- **Exhibitions:** Featured at MoMA New York, London Design Festival, Venice Biennale, and various film festivals.
-- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @IAAC Barcelona 2024.
-
-### Deniz Güvendi
-- **Role:** Architect and designer 📐👷‍♀️🏠
-- **Education:** Studied architecture in Istanbul, Krakow, and Ghent.
-- **Degree:** MSc. Architecture specializing in sustainable development from KU Leuven.
-- **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
-- **Teaching Associations:** lecturer @INDA Thailand 2024.
-
-
-<details>
-  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-  **Email:** putteneersjoris@gmail.com  
-  **Email:** dguvendi9696@gmail.com  
-</details>
-
-
   #### Hardware
   - **ESP32**
   - **C++**
@@ -123,3 +78,48 @@ We are active educators and conduct workshops and lectures, including currently 
   #### Workflow
   - **Vim**
   - **Linux Debian**
+## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
+
+We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
+
+
+<!-- ## Roadmap
+
+- [x] Task 1
+- [ ] Task 2 -->
+
+## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
+<!-- <div style="text-align: center;">
+  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+</div>
+-->
+
+<div style="text-align: center;">
+  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped4.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+</div>
+
+
+
+
+### Joris Putteneers (BE)
+- **Role:** Software Engineer 🤖🧑‍💻
+- **Exhibitions:** Featured at MoMA New York, London Design Festival, Venice Biennale, and various film festivals.
+- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @IAAC Barcelona 2024.
+
+### Deniz Güvendi (TR)
+- **Role:** Architect and designer 📐👷‍♀️🏠
+- **Education:** Studied architecture in Istanbul, Krakow, and Ghent.
+- **Degree:** MSc. Architecture specializing in sustainable development from KU Leuven.
+- **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
+- **Teaching Associations:** lecturer @INDA Thailand 2024.
+
+
+<details>
+  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
+  **Email:** putteneersjoris@gmail.com  
+  **Email:** dguvendi9696@gmail.com  
+</details>
+
+
