@@ -64,7 +64,8 @@ We leverage a custom hard and software stack.
    - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
 
-![alt-text-1](./assets/overview_6.png "title-1") ![alt-text-2](./assets/overview_6.png "title-2")
+| ![Image Alt Text](./assets/overview_6.png) | Text content goes here. |
+| ------------------------------------------ | ------------------------ |
 
 <div style="display: flex; align-items: flex-start;">
   <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
