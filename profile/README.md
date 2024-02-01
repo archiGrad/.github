@@ -61,14 +61,50 @@ We leverage a custom hard and software stack.
   <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> -->
   <!-- <img src="./assets/overview_5.png" alt="Image 1" style="width: 100%; display: inline-block;"> -->
   <img src="./assets/overview_6.png" alt="Image 1" style="width: 47%; display: inline-block;">
-  fffff
+  <br> 
+  - ESP32
+  - C++
+</details>
+
+<details>
+  <summary>Software</summary>
+
+  - SideFx Houdini
+  - Gimp
+  - ffmpeg
+  - imagemagick
+</details>
+
+<details>
+  <summary>Frontend</summary>
+
+  - JavaScript
+  - HTML
+  - CSS
+</details>
+
+<details>
+  <summary>Backend</summary>
+
+  - PHP
+  - MySQL
+  - Rust
+  - Python
+  - Apache HTTP Server
+</details>
+
+<details>
+  <summary>Workflow</summary>
+
+  - Vim
+  - Linux Debian
 </div>
 
 
-![Image](./assets/overview_6.png){width=50%}
-Text content goes here.  
+<!-- ![Image](./assets/overview_6.png){width=50%}
+Text content goes here.   -->
 
-
+<!-- 
 |  <img src="./assets/overview_6.png" alt="Image 1" style="width: 100%; display: inline-block;">| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details>   |
 | ----- | ------------------------ |
 
@@ -82,7 +118,7 @@ Text content goes here.
 
 | <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> | <details style="align-items: flex-start;"><summary>Software</summary> - SideFx Houdini <br> - Gimp <br> - ffmpeg <br> - imagemagick </details> | <details style="align-items: flex-start;"><summary>Frontend</summary> - JavaScript <br> - HTML <br> - CSS <br> </details> |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <details style="align-items: flex-start;"><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details style="align-items: flex-start;"><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | |
+| <details style="align-items: flex-start;"><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details style="align-items: flex-start;"><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | | -->
 
 <!-- 
 <details>
