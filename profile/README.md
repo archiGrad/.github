@@ -64,7 +64,7 @@ We leverage a custom hard and software stack.
   fffff
 </div>
 
-|  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 100%; display: inline-block;">| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details>  |
+|  <img src="./assets/overview_6.png" alt="Image 1" style="width: 100%; display: inline-block;">| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details>  |
 | ----- | ------------------------ |
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
