@@ -67,9 +67,9 @@ We leverage a custom hard and software stack.
 
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 50%;">
+  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
   <div style="width: 50%; padding: 10px;">
-    <p>Your text content goes here.</p>
+    <p> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian</p>
   </div>
 </div>
 
