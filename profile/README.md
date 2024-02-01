@@ -65,6 +65,15 @@ We leverage a custom hard and software stack.
 </div>
 
 
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 50%;">
+  <div style="width: 50%; padding: 10px;">
+    <p>Your text content goes here.</p>
+  </div>
+</div>
+
+
 <!-- ![Image](./assets/overview_6.png){width=50%}
 Text content goes here.   -->
 
