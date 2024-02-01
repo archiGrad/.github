@@ -55,7 +55,7 @@ We leverage specialized soft-and-hardware developed in-house.
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand) and Bartlett UCL (London, UK).
+We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 
 <!-- ## Roadmap
