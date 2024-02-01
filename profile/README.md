@@ -43,7 +43,7 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 We leverage a custom hard and software stack. 
 
 
-  <img src="./assets/overview.jpg" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/overview.jpg" alt="Image 1" style="width: 100%; display: inline-block;">
 
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
