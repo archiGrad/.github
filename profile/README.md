@@ -67,6 +67,11 @@ We leverage a custom hard and software stack.
 | ![Image Alt Text](./assets/overview_6.png) | Text content goes here. |
 | ------------------------------------------ | ------------------------ |
 
+
+| ![Image Alt Text](./assets/overview_6.png) | <div style="vertical-align: top;">Text content goes here.</div> |
+| ------------------------------------------ | ------------------------ |
+
+
 <div style="display: flex; align-items: flex-start;">
   <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
   <div style="width: 50%; padding: 10px;">
