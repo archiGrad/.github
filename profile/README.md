@@ -40,14 +40,12 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We leverage specialized soft-and-hardware developed in-house. 
+We leverage a custom hard/software stack. 
 
-|  <details> <summary>Hardware</summary> - ESP32  - C++</details>    | Age  | Occupation |
+|  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
 | ---------|------|------------|
-| John     | 25   | Developer  |
-| Mary     | 30   | Designer   |
-| Alex     | 28   | Engineer   |
 
+<!-- 
 <details>
   <summary>Hardware</summary>
 
@@ -87,7 +85,7 @@ We leverage specialized soft-and-hardware developed in-house.
 
   - Vim
   - Linux Debian
-</details>
+</details> -->
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
