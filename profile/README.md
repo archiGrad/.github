@@ -64,6 +64,11 @@ We leverage a custom hard and software stack.
   fffff
 </div>
 
+
+![Image](./assets/overview_6.png){width=50%}
+Text content goes here.  
+
+
 |  <img src="./assets/overview_6.png" alt="Image 1" style="width: 100%; display: inline-block;">| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details>   |
 | ----- | ------------------------ |
 
