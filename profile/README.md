@@ -1,7 +1,7 @@
  
 # ArchiGrad.io ซ่อน
 
-Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech initiative dedicated to **making architecture informed**.
+Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-based operation dedicated to **making architecture informed**.
 <br>
 <!-- <div style="text-align: center;">
   <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
@@ -80,35 +80,39 @@ We are active educators and conduct workshops and lectures, including currently 
 - **Education:** Studied architecture in Istanbul, Krakow, and Ghent.
 - **Degree:** MSc. Architecture specializing in sustainable development from KU Leuven.
 - **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
+- **Teaching Associations:** lecturer @INDA Thailand 2024.
 
-<!-- ## contact -->
-<!-- <details>
-  <summary></summary>   
-  
-ddd
-</details> -->
 
 <details>
   <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-  
   **Email:** putteneersjoris@gmail.com  
   **Email:** dguvendi9696@gmail.com  
 </details>
 
 
 ### Tools
-- **Vim**
-- **SideFx Houdini**
-- **Python**
+hardware
+- **ESP32** 
 - **C++**
-- **ESP32**
+software
+- **SideFx Houdini**
+- **Gimp**
+- **Rhinoceros**
+- **ffmpeg**
+- **imagemagick**
+frontend
+- **javascript**
+- **Html**
+- **css**
+backend
 - **PHP**
 - **Mysql**
 - **Rust**
+- **Python**
+- **Apache HTTP server**
+workflow
+- **Vim**
 - **Linux Debian**
-- **Gimp**
-
-
 
 
 <!-- <img src="./assets/dataset1.gif" alt="Image 1" style="width: 100%; display: inline-block;"> -->
