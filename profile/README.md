@@ -88,7 +88,6 @@ We leverage specialized soft-and-hardware developed in-house.
 We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 
-
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 <!-- <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
@@ -116,7 +115,7 @@ We are active educators and conduct workshops and lectures, including currently 
 
 ## Roadmap
 
-- [x] Task 1
+- [x] inhouse Machine learning model
 - [ ] Task 2
  
 <details>
@@ -125,4 +124,8 @@ We are active educators and conduct workshops and lectures, including currently 
   **Email:** dguvendi9696@gmail.com  
 </details>
 
-
+| Name     | Age  | Occupation               |
+| ---------|------|--------------------------|
+| John     | 25   | <details><summary>Developer</summary>Software engineer</details>  |
+| Mary     | 30   | <details><summary>Designer</summary>Graphic designer</details>    |
+| Alex     | 28   | <details><summary>Engineer</summary>Mechanical engineer</details> |
