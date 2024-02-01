@@ -85,31 +85,47 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 We leverage specialized soft-and-hardware developed in-house. 
 
-  #### Hardware
-  - **ESP32**
-  - **C++**
+<details>
+  <summary>Hardware</summary>
 
-  #### Software
-  - **SideFx Houdini**
-  - **Gimp**
-  - **ffmpeg**
-  - **imagemagick**
+  - ESP32
+  - C++
+</details>
 
-  #### Frontend
-  - **JavaScript**
-  - **HTML**
-  - **CSS**
+<details>
+  <summary>Software</summary>
 
-  #### Backend
-  - **PHP**
-  - **MySQL**
-  - **Rust**
-  - **Python**
-  - **Apache HTTP Server**
+  - SideFx Houdini
+  - Gimp
+  - ffmpeg
+  - imagemagick
+</details>
 
-  #### Workflow
-  - **Vim**
-  - **Linux Debian**
+<details>
+  <summary>Frontend</summary>
+
+  - JavaScript
+  - HTML
+  - CSS
+</details>
+
+<details>
+  <summary>Backend</summary>
+
+  - PHP
+  - MySQL
+  - Rust
+  - Python
+  - Apache HTTP Server
+</details>
+
+<details>
+  <summary>Workflow</summary>
+
+  - Vim
+  - Linux Debian
+</details>
+
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
