@@ -98,10 +98,8 @@ We are active educators and conduct workshops and lectures, including currently 
 
 <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped4.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
 </div>
-
-
 
 
 ### Joris Putteneers (BE)
@@ -115,7 +113,6 @@ We are active educators and conduct workshops and lectures, including currently 
 - **Degree:** MSc. Architecture specializing in sustainable development from KU Leuven.
 - **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
 - **Teaching Associations:** lecturer @INDA Thailand 2024.
-
 
 ## Roadmap
 
