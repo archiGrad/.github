@@ -19,18 +19,12 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
 
 
 <div style="text-align: center;">
-  <!-- <img src="./assets/INDA_group_3_1.png" alt="Image 1" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/INDA_group_3_2.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <!-- <img src="./assets/INDA_group_3_3.png" alt="Image 3" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/INDA_group_3_4.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_5.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <!-- <img src="./assets/INDA_group_3_6.png" alt="Image 3" style="width: 33%; display: inline-block;"> -->
+  <img src="./assets/INDA_group_3_5.png" alt="Image 3" style="width: 100%; display: inline-block;">
   <img src="./assets/INDA_group_3_7.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <!-- <img src="./assets/INDA_group_3_8.png" alt="Image 3" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/INDA_group_3_9.png" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/INDA_group_3_10.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <!-- <img src="./assets/INDA_group_3_11.png" alt="Image 3" style="width: 33%; display: inline-block;"> -->
-  <!-- <img src="./assets/INDA_group_3_12.png" alt="Image 3" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/INDA_group_3_14.png" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
 
