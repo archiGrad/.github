@@ -1,4 +1,4 @@
-
+ 
 # ArchiGrad.io
 
 Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to **making architecture informed**.
@@ -19,28 +19,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 
 <details>
   <summary style="font-weight: bold; font-size: 1.5em;">Media</summary>
-  <div style="text-align: center;">
-      <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%;">
-          <p>Annotation for Image 1</p>
-      </div>
-      <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3760.JPG" alt="Image 2" style="width: 33%;">
-          <p>Annotation for Image 2</p>
-      </div>
-      <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%;">
-          <p>Annotation for Image 3</p>
-      </div>
-      <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%;">
-          <p>Annotation for Image 4</p>
-      </div>
-      <div style="width: 33%; display: inline-block; text-align: left;">
-          <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%;">
-          <p>Annotation for Image 5</p>
-      </div>
-  </div>
+
   
 </details>
 
@@ -94,7 +73,7 @@ We are active educators and conduct workshops and lectures, including currently 
 ### Joris Putteneers
 - **Role:** Software Engineer 🤖🧑‍💻
 - **Exhibitions:** Featured at MoMA New York, London Design Festival, Venice Biennale, and various film festivals.
-- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019.
+- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @IAAC Barcelona 2024.
 
 ### Deniz Güvendi
 - **Role:** Architect and designer 📐👷‍♀️🏠
@@ -115,6 +94,20 @@ ddd
   **Email:** putteneersjoris@gmail.com  
   **Email:** dguvendi9696@gmail.com  
 </details>
+
+
+### Tools
+- **Vim**
+- **SideFx Houdini**
+- **Python**
+- **C++**
+- **ESP32**
+- **PHP**
+- **Mysql**
+- **Rust**
+- **Linux Debian**
+- **Gimp**
+
 
 
 
