@@ -16,24 +16,45 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
   <img src="./assets/IMG_3850.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
 
-
 <details>
-  <summary style="font-weight: bold; font-size: 1.5em;">Media</summary>
+  <summary>Hardware</summary>
 
-  
+  - ESP32
+  - C++
 </details>
 
 <details>
-  <summary>Click to expand/collapse</summary>
+  <summary>Software</summary>
 
-  Your detailed content goes here. It can include any valid HTML or markdown content.
+  - SideFx Houdini
+  - Gimp
+  - ffmpeg
+  - imagemagick
+</details>
 
-  - List item 1
-  - List item 2
+<details>
+  <summary>Frontend</summary>
 
-  **Bold Text**
+  - JavaScript
+  - HTML
+  - CSS
+</details>
 
-  *Italic Text*
+<details>
+  <summary>Backend</summary>
+
+  - PHP
+  - MySQL
+  - Rust
+  - Python
+  - Apache HTTP Server
+</details>
+
+<details>
+  <summary>Workflow</summary>
+
+  - Vim
+  - Linux Debian
 </details>
 
 
