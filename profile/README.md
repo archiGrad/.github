@@ -88,10 +88,6 @@ We leverage specialized soft-and-hardware developed in-house.
 We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 
-## Roadmap
-
-- [x] Task 1
-- [ ] Task 2 
 
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 <!-- <div style="text-align: center;">
@@ -121,6 +117,11 @@ We are active educators and conduct workshops and lectures, including currently 
 - **Teaching Associations:** lecturer @INDA Thailand 2024.
 
 
+## Roadmap
+
+- [x] Task 1
+- [ ] Task 2
+ 
 <details>
   <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
   **Email:** putteneersjoris@gmail.com  
