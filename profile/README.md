@@ -90,31 +90,26 @@ We are active educators and conduct workshops and lectures, including currently 
 </details>
 
 
-### Tools
-hardware
-- **ESP32** 
-- **C++**
-software
-- **SideFx Houdini**
-- **Gimp**
-- **Rhinoceros**
-- **ffmpeg**
-- **imagemagick**
-frontend
-- **javascript**
-- **Html**
-- **css**
-backend
-- **PHP**
-- **Mysql**
-- **Rust**
-- **Python**
-- **Apache HTTP server**
-workflow
-- **Vim**
-- **Linux Debian**
-
-
-<!-- <img src="./assets/dataset1.gif" alt="Image 1" style="width: 100%; display: inline-block;"> -->
-
-
+<summary style="font-weight: bold; font-size: 1.5em;">Tools</summary>
+  #### Hardware
+  - **ESP32**
+  - **C++**
+  #### Software
+  - **SideFx Houdini**
+  - **Gimp**
+  - **ffmpeg**
+  - **imagemagick**
+  #### Frontend
+  - **JavaScript**
+  - **HTML**
+  - **CSS**
+  #### Backend
+  - **PHP**
+  - **MySQL**
+  - **Rust**
+  - **Python**
+  - **Apache HTTP Server**
+  #### Workflow
+  - **Vim**
+  - **Linux Debian**
+</details>
