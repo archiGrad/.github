@@ -11,7 +11,7 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source initiative dedicated to 
 <div style="text-align: center;">
   <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3760.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+<!--   <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;"> -->
   <img src="./assets/IMG_3807.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3850.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
 </div>
