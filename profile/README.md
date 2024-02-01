@@ -1,6 +1,6 @@
  
-# ArchiGrad.io
-ซ่อน
+# ArchiGrad.io ซ่อน
+
 Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech initiative dedicated to **making architecture informed**.
 <br>
 <!-- <div style="text-align: center;">
