@@ -73,7 +73,13 @@ We leverage a custom hard and software stack.
   </div>
 </div>
 
-
+<div style="overflow: auto;">
+  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%; float: left; margin-right: 10px;">
+  <div style="width: 50%; padding: 10px;">
+    <p> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian</p>
+  </div>
+  <div style="clear: both;"></div>
+</div>
 <!-- ![Image](./assets/overview_6.png){width=50%}
 Text content goes here.   -->
 
