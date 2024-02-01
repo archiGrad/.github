@@ -65,7 +65,7 @@ We leverage a custom hard and software stack.
 </div>
 
 |  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 46%; display: inline-block;">| our end-to-end ML model, we can accurately predict temperature, gas, and sound propagation, as well as  human circulation. |
-| ----------------------------------------- | ------------------------ |
+| ----- | ------------------------ |
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
 | ---------|------|------------|
