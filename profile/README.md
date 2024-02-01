@@ -66,7 +66,7 @@ We are active educators and conduct workshops and lectures, including currently 
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
 </div>
 
 
@@ -89,18 +89,6 @@ We are active educators and conduct workshops and lectures, including currently 
   **Email:** dguvendi9696@gmail.com  
 </details>
 
-<details>
-  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-	
-  #### Hardware
-  - **ESP32**
-  - **C++**
-
-###eeee
-</details>
-
-
-<summary style="font-weight: bold; font-size: 1.5em;">Tools</summary>
 
   #### Hardware
   - **ESP32**
@@ -127,4 +115,3 @@ We are active educators and conduct workshops and lectures, including currently 
   #### Workflow
   - **Vim**
   - **Linux Debian**
-</details>
