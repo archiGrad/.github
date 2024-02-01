@@ -91,8 +91,7 @@ We are active educators and conduct workshops and lectures, including currently 
 
 <details>
   <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-  **Email:** putteneersjoris@gmail.com  
-  **Email:** dguvendi9696@gmail.com  
+	###eeee
 </details>
 
 
