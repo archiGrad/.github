@@ -55,12 +55,12 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 We leverage a custom hard and software stack. 
 
 <div style="text-align: center;">
-  <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
+  <!-- <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_2.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_3.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_5.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_6.png" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> -->
+  <img src="./assets/overview_5.png" alt="Image 1" style="width: 50%; display: inline-block;">
+  <img src="./assets/overview_6.png" alt="Image 1" style="width: 50%; display: inline-block;">
 </div>
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
