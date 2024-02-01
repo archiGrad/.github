@@ -42,6 +42,12 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 We leverage specialized soft-and-hardware developed in-house. 
 
+|  <details> <summary>Hardware</summary> - ESP32  - C++</details>    | Age  | Occupation |
+| ---------|------|------------|
+| John     | 25   | Developer  |
+| Mary     | 30   | Designer   |
+| Alex     | 28   | Engineer   |
+
 <details>
   <summary>Hardware</summary>
 
