@@ -64,7 +64,13 @@ We leverage a custom hard and software stack.
   fffff
 </div>
 
-|  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 46%; display: inline-block;">| Text content goes here. |
+|  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 46%; display: inline-block;">| 
+- **Autonomous:** Our devices operate fully autonomously; no supervision is needed.
+
+- **end-to-end:** we are able to identify AND propose a solution.
+
+- **flexible:** our service can be used in multiple phases, from design, construction, aftercare, and restoration.
+. |
 | ----------------------------------------- | ------------------------ |
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
