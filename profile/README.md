@@ -91,24 +91,29 @@ We are active educators and conduct workshops and lectures, including currently 
 
 
 <summary style="font-weight: bold; font-size: 1.5em;">Tools</summary>
+
   #### Hardware
   - **ESP32**
   - **C++**
+
   #### Software
   - **SideFx Houdini**
   - **Gimp**
   - **ffmpeg**
   - **imagemagick**
+
   #### Frontend
   - **JavaScript**
   - **HTML**
   - **CSS**
+
   #### Backend
   - **PHP**
   - **MySQL**
   - **Rust**
   - **Python**
   - **Apache HTTP Server**
+
   #### Workflow
   - **Vim**
   - **Linux Debian**
