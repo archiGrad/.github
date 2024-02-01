@@ -61,7 +61,7 @@ We leverage a custom hard and software stack.
   <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> -->
   <!-- <img src="./assets/overview_5.png" alt="Image 1" style="width: 100%; display: inline-block;"> -->
   <img src="./assets/overview_6.png" alt="Image 1" style="width: 47%; display: inline-block;">
-  <br> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
+   - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
 
 
