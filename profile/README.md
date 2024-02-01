@@ -91,7 +91,12 @@ We are active educators and conduct workshops and lectures, including currently 
 
 <details>
   <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-	###eeee
+	
+  #### Hardware
+  - **ESP32**
+  - **C++**
+
+###eeee
 </details>
 
 
