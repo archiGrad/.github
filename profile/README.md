@@ -40,10 +40,23 @@ We specialize in **real-time spatial analysis** of hidden data, encompassing hum
 
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We leverage a custom hard/software stack. 
+We leverage a custom hard and software stack. 
+
+
+  <img src="./assets/overview.jpg" alt="Image 1" style="width: 33%; display: inline-block;">
+
 
 |  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
 | ---------|------|------------|
+
+| <details><summary>Hardware</summary> - ESP32 <br> - C++</details> | <details><summary>Software</summary> - SideFx Houdini <br> - Gimp <br> - ffmpeg <br> - imagemagick </details> | <details><summary>Frontend</summary> - JavaScript <br> - HTML <br> - CSS <br> </details> |
+| ------------------------------------- | ----------------------------------------- | --------------------------------- |
+| <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | |
+
+
+| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> | <details style="align-items: flex-start;"><summary>Software</summary> - SideFx Houdini <br> - Gimp <br> - ffmpeg <br> - imagemagick </details> | <details style="align-items: flex-start;"><summary>Frontend</summary> - JavaScript <br> - HTML <br> - CSS <br> </details> |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <details style="align-items: flex-start;"><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details style="align-items: flex-start;"><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | |
 
 <!-- 
 <details>
