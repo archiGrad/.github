@@ -50,7 +50,15 @@ We specialize in **real-time architecture computing**. We analyze and visualize 
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We leverage a custom hard and software stack. 
-  - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
+
+
+ategory    | Technologies                                       |
+|-------------|----------------------------------------------------|
+| Frontend    | JavaScript, HTML, CSS                             |
+| Backend     | PHP, MySQL, Rust, Python, Apache HTTP Server       |
+| Hardware    | esp32                                              |
+| Software    | SideFx Houdini, Gimp, ffmpeg, imagemagick, Vim    |
+| Workflow    | Linux Debian 
 <!--
 <div style="text-align: center;">
   <!-- <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
@@ -188,11 +196,14 @@ We are active educators providing lectures and workshops internationally includi
 - [x] inhouse Machine learning model
 - [ ] Task 2
 -->
- 
+
+<!--
 <details>
  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
 [instagram](http://archive.archigrad.io)
 </details>
+-->
+
 <!--
 | Name     | Age  | Occupation               |
 | ---------|------|--------------------------|
