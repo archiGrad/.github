@@ -1,4 +1,64 @@
  
+
+
+
+# ArchiGrad.io
+
+Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international operation dedicated to **making architecture informed**.
+
+<br>
+
+<!-- 
+<div style="text-align: center;">
+  <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
+  <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
+</div>
+-->
+
+<div style="text-align: center;">
+  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3760.JPG" alt="Image 2" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
+</div>
+
+<!-- 
+<div style="text-align: center;">
+  <img src="./assets/INDA_group_3_2.png" alt="Image 6" style="width: 33%; display: inline-block;">
+  <img src="./assets/INDA_group_3_4.png" alt="Image 7" style="width: 33%; display: inline-block;">
+  <img src="./assets/INDA_group_3_5.png" alt="Image 8" style="width: 100%; display: inline-block;">
+  <img src="./assets/INDA_group_3_7.png" alt="Image 9" style="width: 33%; display: inline-block;">
+  <img src="./assets/INDA_group_3_9.png" alt="Image 10" style="width: 33%; display: inline-block;">
+  <img src="./assets/INDA_group_3_10.png" alt="Image 11" style="width: 33%; display: inline-block;">
+  <img src="./assets/INDA_group_3_14.png" alt="Image 12" style="width: 33%; display: inline-block;">
+</div>
+-->
+
+## What Do We Do?
+
+We specialize in **real-time architecture computing**. We analyze and visualize concealed data. Our mission is to **identify, analyze, and propose a solution to underperforming areas in your infrastructure**. This includes analyzing human circulation trajectories, locating hidden colbridges, thermal leaks or moisture, small or large-scale sound performance analysis, optimal airflow predictions for data centers, air quality control, and gas leaks, WiFi coverage predictions.
+
+<!-- 
+We outperform traditional methods, offering both an economical and environmental advantage.
+[Link Text](http://example.com)
+-->
+
+## Why Choose Us?
+
+- **Real-time Data:** Depending on the problem, our hardware can provide accurate high-coverage readings at 30fps.
+- **Autonomous:** Once set up, our devices operate autonomously for up to 2 months without supervision.
+- **End-to-End:** Our service identifies the problem and provides a solution.
+- **Flexible:** Depending on your situation, our service can be used in multiple scales and stages, from design, construction to reuse and restoration.
+- **Communication:** We provide analytical and highly-communicative drawings, videos, models, and applications.
+
+
+
+
+
+
+
 # ArchiGrad.io 
 
 Hey there! 👋 We are **ArchiGrad.io**,a high-tech, open-source, international operation dedicated to **making architecture informed**.
