@@ -30,7 +30,7 @@ Hey there! 👋 We are **ArchiGrad.io**,a high-tech, open-source, international 
 
 ## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We specialize in **real-time spatial computing**. We analyze and visualize concealed data.  Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure**   This means analyzing human circulation trajectories, locating of hidden colbridges, termal leaks or moisture. small or large scale  sound performance analysis, optimal airflow predictions for datacenters,air quality control and  gas leaks, WiFi coverage predictions. 
+We specialize in **real-time architecture computing**. We analyze and visualize concealed data.  Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure**   This means analyzing human circulation trajectories, locating of hidden colbridges, termal leaks or moisture. small or large scale  sound performance analysis, optimal airflow predictions for datacenters,air quality control and  gas leaks, WiFi coverage predictions. 
 
 
 
@@ -39,7 +39,7 @@ We specialize in **real-time spatial computing**. We analyze and visualize conce
 
 ## Why Choose Us? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-- **Realtime Data:** Depending on the problem, our hardware can provide accurate high coverage readings at 30frames /second.
+- **Realtime Data:** Depending on the problem, our hardware can provide accurate high coverage readings at 30fps.
 - **Autonomous:** Once set up, our devices operate  autonomously for up to 2 months without supervision .
 - **end-to-end:** Our service identifies the problem and provides a solution.
 - **flexible:** depending on your situation, our service can be used in multiple scales and stages, from design, constructionto reuse and restoration.
@@ -50,25 +50,24 @@ We specialize in **real-time spatial computing**. We analyze and visualize conce
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We leverage a custom hard and software stack. 
-
+  - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
+<!--
 <div style="text-align: center;">
   <!-- <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_2.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_3.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> -->
-  <!-- <img src="./assets/overview_5.png" alt="Image 1" style="width: 100%; display: inline-block;"> -->
+  <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> 
+  <img src="./assets/overview_5.png" alt="Image 1" style="width: 100%; display: inline-block;"> 
   <img src="./assets/overview_6.png" alt="Image 1" style="width: 47%; display: inline-block;">
    - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
+-->
 
-
-
-
-[archive.archigrad.io](http://archive.archigrad.io)
+[archive](http://archive.archigrad.io)
 [archigrad.io](http://archigrad.io)
-[api.archigrad.io](http://api.archigrad.io)
+[Api endpoint](http://api.archigrad.io)
 
-
+<!--
 
 | ![Image Alt Text](./assets/overview_6.png) | Text content goes here. |
 | ------------------------------------------ | ------------------------ |
@@ -76,7 +75,7 @@ We leverage a custom hard and software stack.
 
 | ![Image Alt Text](./assets/overview_6.png) | <div style="vertical-align: top;">Text content goes here.</div> |
 | ------------------------------------------ | ------------------------ |
-
+-->
 <!--
 <div style="display: flex; align-items: flex-start;">
   <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
@@ -183,15 +182,16 @@ We are active educators providing lectures and workshops internationally includi
 - **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
 - **Teaching Associations:** lecturer @INDA Thailand 2024.
 
+<!--
 ## Roadmap
 
 - [x] inhouse Machine learning model
 - [ ] Task 2
+-->
  
 <details>
-  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
-  **Email:** putteneersjoris@gmail.com  
-  **Email:** dguvendi9696@gmail.com  
+ <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
+[instagram](http://archive.archigrad.io)
 </details>
 <!--
 | Name     | Age  | Occupation               |
