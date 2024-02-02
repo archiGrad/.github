@@ -1,20 +1,8 @@
- 
-
-
-
 # ArchiGrad.io
 
 Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international operation dedicated to **making architecture informed**.
 
 <br>
-
-<!-- 
-<div style="text-align: center;">
-  <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
-  <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
-</div>
--->
 
 <div style="text-align: center;">
   <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
@@ -23,18 +11,6 @@ Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international
   <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
 </div>
-
-<!-- 
-<div style="text-align: center;">
-  <img src="./assets/INDA_group_3_2.png" alt="Image 6" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_4.png" alt="Image 7" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_5.png" alt="Image 8" style="width: 100%; display: inline-block;">
-  <img src="./assets/INDA_group_3_7.png" alt="Image 9" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_9.png" alt="Image 10" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_10.png" alt="Image 11" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_14.png" alt="Image 12" style="width: 33%; display: inline-block;">
-</div>
--->
 
 ## What Do We Do?
 
@@ -54,59 +30,6 @@ We outperform traditional methods, offering both an economical and environmental
 - **Communication:** We provide analytical and highly-communicative drawings, videos, models, and applications.
 
 
-
-
-
-
-
-# ArchiGrad.io 
-
-Hey there! 👋 We are **ArchiGrad.io**,a high-tech, open-source, international operation dedicated to **making architecture informed**.
-<br>
-<!-- <div style="text-align: center;">
-  <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/a_2.png" alt="Image 2" style="width: 33%; display: inline-block;">
-  <img src="./assets/a_3.png" alt="Image 3" style="width: 33%; display: inline-block;">
-</div> -->
-<div style="text-align: center;">
-  <img src="./assets/IMG_3658.JPG" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3760.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3807.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3850.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
-</div>
-
-
-
-<!-- <div style="text-align: center;">
-  <img src="./assets/INDA_group_3_2.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_4.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_5.png" alt="Image 3" style="width: 100%; display: inline-block;">
-  <img src="./assets/INDA_group_3_7.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_9.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_10.png" alt="Image 3" style="width: 33%; display: inline-block;">
-  <img src="./assets/INDA_group_3_14.png" alt="Image 3" style="width: 33%; display: inline-block;">
-</div> -->
-
-## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-
-We specialize in **real-time architecture computing**. We analyze and visualize concealed data.  Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure**   This means analyzing human circulation trajectories, locating of hidden colbridges, termal leaks or moisture. small or large scale  sound performance analysis, optimal airflow predictions for datacenters,air quality control and  gas leaks, WiFi coverage predictions. 
-
-
-
-<!-- We outperform traditional methods, offering both an economical and environmental advantage. -->
-<!-- [Link Text](http://example.com) -->
-
-## Why Choose Us? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-
-- **Realtime Data:** Depending on the problem, our hardware can provide accurate high coverage readings at 30fps.
-- **Autonomous:** Once set up, our devices operate  autonomously for up to 2 months without supervision .
-- **end-to-end:** Our service identifies the problem and provides a solution.
-- **flexible:** depending on your situation, our service can be used in multiple scales and stages, from design, constructionto reuse and restoration.
-- **Communication:** we provide analytical and highly-communicative drawings, videos, models, and applications.
-<!-- - **Predicability:** With our end-to-end ML model, we can accurately predict temperature, gas, and sound propagation, as well as  human circulation -->
- <!-- high-communicative drawings, videos, and models to effectively communicate our proposals and analyses. -->
-
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We leverage a custom hard and software stack. 
@@ -123,7 +46,7 @@ We leverage a custom hard and software stack.
 
 <!--
 <div style="text-align: center;">
-  <!-- <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
+  <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_2.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_3.png" alt="Image 1" style="width: 33%; display: inline-block;">
   <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> 
@@ -135,104 +58,11 @@ We leverage a custom hard and software stack.
 more inbformation can be found on [website](http://archigrad.io) , [Api endpoint](http://api.archigrad.io) and [archive](http://archive.archigrad.io) 
 
 
-
-<!--
-
-| ![Image Alt Text](./assets/overview_6.png) | Text content goes here. |
-| ------------------------------------------ | ------------------------ |
-
-
-| ![Image Alt Text](./assets/overview_6.png) | <div style="vertical-align: top;">Text content goes here.</div> |
-| ------------------------------------------ | ------------------------ |
--->
-<!--
-<div style="display: flex; align-items: flex-start;">
-  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
-  <div style="width: 50%; padding: 10px;">
-    <p> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian</p>
-  </div>
-</div>
-
-<div style="overflow: auto;">
-  <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%; float: left; margin-right: 10px;">
-  <div style="width: 50%; padding: 10px;">
-    <p> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian</p>
-  </div>
-  <div style="clear: both;"></div>
-</div> -->
-<!-- ![Image](./assets/overview_6.png){width=50%}
-Text content goes here.   -->
-
-<!-- 
-|  <img src="./assets/overview_6.png" alt="Image 1" style="width: 100%; display: inline-block;">| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> <br> <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details>   |
-| ----- | ------------------------ |
-
-|  <details> <summary>Hardware</summary> - ESP32 <br> - C++</details>    | <details> <summary>Software</summary> - SideFx Houdini <br>   - Gimp <br>   - ffmpeg <br>   - imagemagick </details>  | <details>  <summary>Frontend</summary>  - JavaScript <br> - HTML <br>  - CSS <br> </details>
-| ---------|------|------------|
-
-| <details><summary>Hardware</summary> - ESP32 <br> - C++</details> | <details><summary>Software</summary> - SideFx Houdini <br> - Gimp <br> - ffmpeg <br> - imagemagick </details> | <details><summary>Frontend</summary> - JavaScript <br> - HTML <br> - CSS <br> </details> |
-| ------------------------------------- | ----------------------------------------- | --------------------------------- |
-| <details><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | |
-
-
-| <details style="align-items: flex-start;"><summary>Hardware</summary> - ESP32 <br> - C++</details> | <details style="align-items: flex-start;"><summary>Software</summary> - SideFx Houdini <br> - Gimp <br> - ffmpeg <br> - imagemagick </details> | <details style="align-items: flex-start;"><summary>Frontend</summary> - JavaScript <br> - HTML <br> - CSS <br> </details> |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <details style="align-items: flex-start;"><summary>Backend</summary> - PHP <br> - MySQL <br> - Rust <br> - Python <br> - Apache HTTP Server </details> | <details style="align-items: flex-start;"><summary>Workflow</summary> - Vim <br> - Linux Debian </details> | | -->
-
-<!-- 
-<details>
-  <summary>Hardware</summary>
-
-  - ESP32
-  - C++
-</details>
-
-<details>
-  <summary>Software</summary>
-
-  - SideFx Houdini
-  - Gimp
-  - ffmpeg
-  - imagemagick
-</details>
-
-<details>
-  <summary>Frontend</summary>
-
-  - JavaScript
-  - HTML
-  - CSS
-</details>
-
-<details>
-  <summary>Backend</summary>
-
-  - PHP
-  - MySQL
-  - Rust
-  - Python
-  - Apache HTTP Server
-</details>
-
-<details>
-  <summary>Workflow</summary>
-
-  - Vim
-  - Linux Debian
-</details> -->
-
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
 We are active educators providing lectures and workshops internationally including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
-
-## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
-<!-- <div style="text-align: center;">
-  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped2.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
-</div>
--->
-
+## Who Are We?
 <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
   <img src="./assets/barcelona_Deniz_cropped5.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
@@ -252,28 +82,9 @@ We are active educators providing lectures and workshops internationally includi
 - **Teaching Associations:** lecturer @INDA Thailand 2024.
 
 <!--
-## Roadmap
-
-- [x] inhouse Machine learning model
-- [ ] Task 2
--->
-
-<!--
 <details>
  <summary style="font-weight: bold; font-size: 1.5em;">Contact</summary>
 [instagram](http://archive.archigrad.io)
 </details>
 -->
-
-<!--
-| Name     | Age  | Occupation               |
-| ---------|------|--------------------------|
-| John     | 25   | <details><summary>Developer</summary>Software engineer</details>  |
-| Mary     | 30   | <details><summary>Designer</summary>Graphic designer</details>    |
-| Alex     | 28   | <details><summary>Engineer</summary>Mechanical engineer</details> |
-
--->
-
-
-
 
