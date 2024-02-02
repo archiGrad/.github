@@ -77,7 +77,7 @@ We leverage a custom hard and software stack.
 | ![Image Alt Text](./assets/overview_6.png) | <div style="vertical-align: top;">Text content goes here.</div> |
 | ------------------------------------------ | ------------------------ |
 
-
+<!--
 <div style="display: flex; align-items: flex-start;">
   <img src="./assets/overview_6.png" alt="Image Alt Text" style="width: 30%;">
   <div style="width: 50%; padding: 10px;">
@@ -91,7 +91,7 @@ We leverage a custom hard and software stack.
     <p> - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian</p>
   </div>
   <div style="clear: both;"></div>
-</div>
+</div> -->
 <!-- ![Image](./assets/overview_6.png){width=50%}
 Text content goes here.   -->
 
