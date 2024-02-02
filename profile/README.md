@@ -1,7 +1,7 @@
  
 # ArchiGrad.io 
 
-Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-based operation dedicated to **making architecture informed**.
+Hey there! 👋 We are **ArchiGrad.io**,a high-tech, open-source, international operation dedicated to **making architecture informed**.
 <br>
 <!-- <div style="text-align: center;">
   <img src="./assets/a_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
@@ -30,24 +30,21 @@ Hey there! 👋 We are **ArchiGrad.io**, an open-source, high-tech, Belgian-base
 
 ## What Do We Do? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We specialize in **real-time spatial analysis** of hidden data, encompassing human circulation, temperature, sound, humidity, airflow, gas, and WiFi. Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure** such as hidden cold bridges, thermal leaks, circulation issues, sound insulation problems, air quality insufficiency, and indoor pollutants. 
+We specialize in **real-time spatial computing**. We analyze and visualize concealed data.  Our mission is to **identify, analyze and propose a solution to underperforming areas in your infrastructure**   This means analyzing human circulation trajectories, locating of hidden colbridges, termal leaks or moisture. small or large scale  sound performance analysis, optimal airflow predictions for datacenters,air quality control and  gas leaks, WiFi coverage predictions. 
+
+
 
 <!-- We outperform traditional methods, offering both an economical and environmental advantage. -->
 <!-- [Link Text](http://example.com) -->
 
 ## Why Choose Us? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-- **Real Data:** We use REAL data, ensuring real-time problem detection with high resolution, frequency, and accuracy.
-  
-- **Autonomous:** Our devices operate fully autonomously; no supervision is needed.
-
-- **end-to-end:** we are able to identify AND propose a solution.
-
-- **flexible:** our service can be used in multiple phases, from design, construction, aftercare, and restoration.
-
+- **Realtime Data:** Depending on the problem, our hardware can provide accurate high coverage readings at 30frames /second.
+- **Autonomous:** Once set up, our devices operate  autonomously for up to 2 months without supervision .
+- **end-to-end:** Our service identifies the problem and provides a solution.
+- **flexible:** depending on your situation, our service can be used in multiple scales and stages, from design, constructionto reuse and restoration.
 - **Communication:** we provide analytical and highly-communicative drawings, videos, models, and applications.
-
-- **Predicability:** With our end-to-end ML model, we can accurately predict temperature, gas, and sound propagation, as well as  human circulation
+<!-- - **Predicability:** With our end-to-end ML model, we can accurately predict temperature, gas, and sound propagation, as well as  human circulation -->
  <!-- high-communicative drawings, videos, and models to effectively communicate our proposals and analyses. -->
 
 ## How We Do This? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
@@ -158,7 +155,7 @@ Text content goes here.   -->
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We are active educators and conduct workshops and lectures, including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
+We are active educators providing lectures and workshops internationally including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 
 ## Who Are We? <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
@@ -175,12 +172,12 @@ We are active educators and conduct workshops and lectures, including currently 
 
 
 ### Joris Putteneers (BE)
-- **Role:** Software Engineer 🤖🧑‍💻
+- **Role:** Software Engineer
 - **Exhibitions:** Featured at MoMA New York, London Design Festival, Venice Biennale, and various film festivals.
 - **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @IAAC Barcelona 2024.
 
 ### Deniz Güvendi (TR)
-- **Role:** Architect and designer 📐👷‍♀️🏠
+- **Role:** Architect and designer
 - **Education:** Studied architecture in Istanbul, Krakow, and Ghent.
 - **Degree:** MSc. Architecture specializing in sustainable development from KU Leuven.
 - **Focus:** Adaptability, circularity, and nature-human-machine cooperation.
@@ -196,9 +193,15 @@ We are active educators and conduct workshops and lectures, including currently 
   **Email:** putteneersjoris@gmail.com  
   **Email:** dguvendi9696@gmail.com  
 </details>
-
+<!--
 | Name     | Age  | Occupation               |
 | ---------|------|--------------------------|
 | John     | 25   | <details><summary>Developer</summary>Software engineer</details>  |
 | Mary     | 30   | <details><summary>Designer</summary>Graphic designer</details>    |
 | Alex     | 28   | <details><summary>Engineer</summary>Mechanical engineer</details> |
+
+-->
+
+
+
+
