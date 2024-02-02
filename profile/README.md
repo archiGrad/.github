@@ -52,13 +52,15 @@ We specialize in **real-time architecture computing**. We analyze and visualize 
 We leverage a custom hard and software stack. 
 
 
-ategory    | Technologies                                       |
+| category    | Technologies                                       |
 |-------------|----------------------------------------------------|
 | Frontend    | JavaScript, HTML, CSS                             |
 | Backend     | PHP, MySQL, Rust, Python, Apache HTTP Server       |
 | Hardware    | esp32                                              |
-| Software    | SideFx Houdini, Gimp, ffmpeg, imagemagick, Vim    |
-| Workflow    | Linux Debian 
+| Software    | SideFx Houdini, Gimp, ffmpeg, imagemagick    |
+| Workflow    | Linux Debian,  Vim |
+
+
 <!--
 <div style="text-align: center;">
   <!-- <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
