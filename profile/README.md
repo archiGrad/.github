@@ -72,10 +72,9 @@ We leverage a custom hard and software stack.
    - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
 -->
+more inbformation can be found on [website](http://archigrad.io) , [Api endpoint](http://api.archigrad.io) and [archive](http://archive.archigrad.io) 
 
-[archive](http://archive.archigrad.io)
-[archigrad.io](http://archigrad.io)
-[Api endpoint](http://api.archigrad.io)
+
 
 <!--
 
