@@ -55,7 +55,7 @@ We leverage a custom hard and software stack.
    - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
 -->
-more inbformation can be found on [website](http://archigrad.io) , [Api endpoint](http://api.archigrad.io) and [archive](http://archive.archigrad.io) 
+More information can be found on our [website](http://archigrad.io), our [Api endpoint](http://api.archigrad.io) and our [archive](http://archive.archigrad.io). 
 
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
@@ -64,8 +64,8 @@ We are active educators providing lectures and workshops internationally includi
 
 ## Who Are We?
 <div style="text-align: center;">
-  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 48%; display: inline-block;">
-  <img src="./assets/barcelona_Deniz_cropped5.JPG" alt="Image 2" style="width: 48%; display: inline-block;">
+  <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 49%; display: inline-block;">
+  <img src="./assets/barcelona_Deniz_cropped5.JPG" alt="Image 2" style="width: 49%; display: inline-block;">
 </div>
 
 
