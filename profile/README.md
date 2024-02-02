@@ -10,6 +10,7 @@ Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international
   <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3812.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
 </div>
 
 ## What Do We Do?
@@ -55,12 +56,12 @@ We leverage a custom hard and software stack.
    - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
 </div>
 -->
-More information can be found on our [website](http://archigrad.io), our [Api endpoint](http://api.archigrad.io) and our [archive](http://archive.archigrad.io). 
+More information can be found on our [website](http://archigrad.io), our [api endpoint](http://api.archigrad.io) and our [archive](http://archive.archigrad.io). 
 
 
 ## Research And Education <!--<img src="./assets/animated.gif" style="height:15px; width:15px;border-radius: 50%; ">-->
 
-We are active educators providing lectures and workshops internationally including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
+Besides our practice, we are active educators providing lectures and workshops internationally including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
 ## Who Are We?
 <div style="text-align: center;">
