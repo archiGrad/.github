@@ -10,7 +10,7 @@ Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international
   <img src="./assets/IMG_3787.JPG" alt="Image 3" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3807.JPG" alt="Image 4" style="width: 33%; display: inline-block;">
   <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
-  <img src="./assets/IMG_3812.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
+  <img src="./assets/IMG_3850.JPG" alt="Image 5" style="width: 33%; display: inline-block;">
 </div>
 
 ## What Do We Do?
@@ -41,7 +41,7 @@ We leverage a custom hard and software stack.
 | Frontend    | JavaScript, HTML, CSS                             |
 | Backend     | PHP, MySQL, Rust, Python, Apache HTTP Server       |
 | Hardware    | esp32                                              |
-| Software    | SideFx Houdini, Gimp, ffmpeg, imagemagick    |
+| Software    | SideFx Houdini, KiCad, Gimp, ffmpeg, imagemagick    |
 | Workflow    | Linux Debian,  Vim |
 
 
