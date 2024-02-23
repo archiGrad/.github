@@ -42,7 +42,7 @@ We leverage a custom hard and software stack.
 | Backend     | PHP, MySQL, Rust, Python, Apache HTTP Server       |
 | Hardware    | esp32                                              |
 | Software    | SideFx Houdini, KiCad, Gimp, ffmpeg, imagemagick    |
-| Workflow    | Linux Debian,  Vim |
+| Workflow    | Linux Debian,  Vim , platformio |
 
 
 <!--
