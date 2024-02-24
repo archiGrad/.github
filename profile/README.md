@@ -44,18 +44,6 @@ We leverage a custom hard and software stack.
 | Software    | SideFx Houdini, KiCad, Gimp, ffmpeg, imagemagick    |
 | Workflow    | Linux Debian,  Vim , platformio |
 
-
-<!--
-<div style="text-align: center;">
-  <img src="./assets/overview_1.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_2.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_3.png" alt="Image 1" style="width: 33%; display: inline-block;">
-  <img src="./assets/overview_4.png" alt="Image 1" style="width: 33%; display: inline-block;"> 
-  <img src="./assets/overview_5.png" alt="Image 1" style="width: 100%; display: inline-block;"> 
-  <img src="./assets/overview_6.png" alt="Image 1" style="width: 47%; display: inline-block;">
-   - ESP32- C++- SideFx Houdini- Gimp- ffmpeg- imagemagick- JavaScript- HTML- CSS- PHP- MySQL- Rust- Python- Apache HTTP Server- Vim- Linux Debian
-</div>
--->
 More information can be found on our [website](http://archigrad.io), our [api endpoint](http://api.archigrad.io) and our [archive](http://archive.archigrad.io). 
 
 
@@ -88,4 +76,10 @@ Besides our practice, we are active educators providing lectures and workshops i
 [instagram](http://archive.archigrad.io)
 </details>
 -->
+
+## todo
+- ** social media presence:** instagram, linkedin
+- ** website update** 
+- ** custom library**
+- **archiving all the work**
 
