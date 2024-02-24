@@ -79,7 +79,6 @@ Besides our practice, we are active educators providing lectures and workshops i
 
 ## todo
 - **social media presence:** instagram, linkedin
-- **website update** 
-- **custom library**
-- **archiving all the work**
+- **website update:** projects, archive integration 
+- **archiving all the work:** archiving on a website that we can use as a tool
 
