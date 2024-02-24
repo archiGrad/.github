@@ -78,8 +78,8 @@ Besides our practice, we are active educators providing lectures and workshops i
 -->
 
 ## todo
-- ** social media presence:** instagram, linkedin
-- ** website update** 
-- ** custom library**
+- **social media presence:** instagram, linkedin
+- **website update** 
+- **custom library**
 - **archiving all the work**
 
