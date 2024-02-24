@@ -61,7 +61,7 @@ Besides our practice, we are active educators providing lectures and workshops i
 ### Joris Putteneers (BE)
 - **Role:** Software Engineer
 - **Exhibitions:** Featured at MoMA New York, London Design Festival, Venice Biennale, and various film festivals.
-- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @IAAC Barcelona 2024.
+- **Teaching Associations:** Senior Teaching Fellow @ Bartlett UCL (2021-current), Assistant Professor @ Texas A&M 2019-2020, Guest Lecturer @ MIT 2023, Scientific Researcher @ KUL Faculty of Architecture 2021-2023, and lecturer @TU Wien 2019, @INDA Thailand 2024, @DEZACTxLAC China 2023, @IAAC Barcelona 2024.
 
 ### Deniz Güvendi (TR)
 - **Role:** Architect and designer
