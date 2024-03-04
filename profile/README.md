@@ -42,7 +42,7 @@ We leverage a custom hard and software stack.
 | Backend     | PHP, MySQL, Rust, Python, Apache HTTP Server       |
 | Hardware    | esp32                                              |
 | Software    | SideFx Houdini, KiCad, Gimp, ffmpeg, imagemagick    |
-| Workflow    | Linux Debian,  Vim , platformio |
+| Workflow    | Linux Debian, tmux,  Vim , platformio |
 
 More information can be found on our [website](http://archigrad.io), our [api endpoint](http://api.archigrad.io) and our [archive](http://archive.archigrad.io). 
 
