@@ -1,6 +1,8 @@
 # ArchiGrad.io
 
 Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international operation dedicated to **making architecture informed**.
+RTAC.bot
+
 
 <br>
 
