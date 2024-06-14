@@ -2,11 +2,8 @@
 
 Hey there! 👋 We are **ArchiGrad.io**, a high-tech, open-source, international operation dedicated to **making architecture informed**.
 
-
-RTAC.bot
-
-
 <!-- 
+RTAC.bot
 <br>
 
 <div style="text-align: center;">
@@ -57,12 +54,14 @@ More information can be found on our [website](http://archigrad.io), our [api en
 
 Besides our practice, we are active educators providing lectures and workshops internationally including currently at Chulalongkorn University (Bangkok, Thailand),  Bartlett UCL (London, UK), IAAC (Barcelona, ESP).
 
+
+<!-- 
 ## Who Are We?
 <div style="text-align: center;">
   <img src="./assets/barcelona_Joris_cropped.JPG" alt="Image 1" style="width: 49%; display: inline-block;">
   <img src="./assets/barcelona_Deniz_cropped5.JPG" alt="Image 2" style="width: 49%; display: inline-block;">
 </div>
-
+-->
 
 ### Joris Putteneers (BE)
 - **Role:** Software Engineer
