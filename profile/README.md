@@ -9,9 +9,4 @@ We are archiGrad.io, high throughput, low latency, international office for digi
 welcome to our github, most projects are opensourced. Take a look at our [[website]](https://archigrad.io/).
 
 contact: hello@archigrad.io
-
-* [Projects](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2FProjects)
-* [Research](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2Fresearch)
-* [Education](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2Feducation)
-* 
-* [Instagram](https://www.instagram.com/archigrad.io/)
+[[Projects]](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2FProjects) , [[Research](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2Fresearch), [[Education]](https://archigrad.io/?path=archiGrad.io%2Fwork%2Fcombined%2Feducation), [[Instagram]](https://www.instagram.com/archigrad.io/)
