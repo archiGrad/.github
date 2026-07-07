@@ -6,7 +6,7 @@ contact: hello@archigrad.io
 
 # archiGrad.io
 We are archiGrad.io, high throughput, low latency, international office for digital and physical architecture.
-welcome to our github, most projects are opensourced. Take a look at our [website](https://archigrad.io/).
+welcome to our github, most projects are opensourced. Take a look at our [[website]](https://archigrad.io/).
 
 contact: hello@archigrad.io
 
